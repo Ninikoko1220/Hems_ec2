@@ -1,5 +1,5 @@
 # 敏感配置
-config.json
+# config.json
 *.pem
 
 # Python 缓存
@@ -26,9 +26,9 @@ data/*.png
 *.crt
 
 # 模型文件（可选）
-*.pt
-*.pth
-*.pkl
+#*.pt
+#*.pth
+#*.pkl
 
 # 历史数据
 *.csv
